@@ -1,0 +1,7 @@
+[1].  Big 5 Lung Diseases Workshop, 29th Congress of the Asian Pacific Society of Respirology, Remarks by Dr Catharina Boehme, Officer-in-Charge, WHO South-East Asia
+[2]. www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death
+[3]. Rocha BM et al. (2019) "An open access database for the evaluation of respiratory sound classification algorithms" Physiological Measurement 40 035001, bhichallenge.med.auth.gr/ICBHI_2017_Challenge
+[4]. Published in 2018, International Conference on Content-Based Multimedia Indexing. Authors: Gaëtan Chambres; Pierre Hanna; Myriam Desainte-Catherine. DOI:10.1109/CBMI.2018.8516489 
+[5]. Published in 2019, 19th International Conference on Control, Automation and Systems, Authors: Koki Minami; Huimin Lu; Hyoungseop Kim; Shingo Mabu; Yasushi Hirano; Shoji Kido. DOI:10.23919/ICCAS47443.2019.8971689 - 2019, 19th International Conference on Control, Automation and Systems
+[6]. CycleGuardian: a framework for automatic respiratory sound classiﬁcation based on improved deep clustering and contrastive learning. By Yun Chu, Qiuhao Wang, Enze Zhou, Ling Fu, Qian Liu, Gang Zheng. DOI:10.48550/arXiv.2502.00734 - 2025, Complex & Intelligent Systems 11:200
+[7]. “A dataset of lung sounds recorded from the chest wall using an electronic stethoscope”. By Mohammad Fraiwan, Luay Fraiwan, Basheer Khassawneh, Ali Ibnian  - Biocybernetics and Biomedical Engineering, Volume 41, Issue 1, January–March 2021, Pages 1-14. DOI.org/10.1016/j.dib.2021.106913 
