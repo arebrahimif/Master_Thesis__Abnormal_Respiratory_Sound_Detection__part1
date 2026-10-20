@@ -39,6 +39,9 @@ processed_data/
 
 # Model checkpoints and weights
 models/*
+models/.gitkeep
+audioset_tagging_cnn_master/*
+audioset_tagging_cnn_master/.gitkeep
 **/audioset_tagging_cnn_master/*
 !**/audioset_tagging_cnn_master/.gitkeep
 checkpoints/
