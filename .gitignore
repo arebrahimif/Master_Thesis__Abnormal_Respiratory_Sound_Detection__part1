@@ -42,8 +42,8 @@ models/*
 !models/.gitkeep
 audioset_tagging_cnn_master/*
 !audioset_tagging_cnn_master/.gitkeep
-**/audioset_tagging_cnn_master/*
-!**/audioset_tagging_cnn_master/.gitkeep
+src/audioset_tagging_cnn_master/*
+!src/audioset_tagging_cnn_master/.gitkeep
 checkpoints/
 weights/
 *.pt
